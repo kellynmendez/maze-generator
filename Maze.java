@@ -1,4 +1,5 @@
 // Generating maze using Mark Allen Weiss's DisjSets class
+//      @author Kellyn Mendez
 import java.lang.Math;
 import java.util.Scanner;
 
